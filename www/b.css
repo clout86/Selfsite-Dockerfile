@@ -972,9 +972,9 @@ a {
   transform: translate(-50%, -50%);
   -ms-transform: translate(-50%, -50%);
   background: #FA8072;
-  border: 6px dashed aqua;
+  border: 4px dashed aqua;
   border-radius: 25px;
-  padding: 25px 50px 75px;	
+  padding: 25px 50px 25px;	
 }
 
 .w3-display-left {
